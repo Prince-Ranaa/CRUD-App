@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "apple",
+      "email": "apple",
+      "number": 21312,
+      "salary": "21323"
+    },
+    {
+      "name": "ball",
+      "email": "ball@gmail.com",
+      "number": 123,
+      "salary": "321",
+      "id": 2
+    },
+    {
+      "name": "cat ",
+      "email": "cat@gmail.com",
+      "number": 1234,
+      "salary": "4321",
+      "id": 3
+    },
+    {
+      "name": "dog",
+      "email": "dog@gmail.com",
+      "number": 234,
+      "salary": "432",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "EEL",
+      "email": "eel@gmail.com",
+      "number": 467,
+      "salary": "588"
+    }
+  ]
+}
